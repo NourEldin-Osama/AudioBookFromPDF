@@ -1,4 +1,4 @@
-# PDF Reader and Speaker
+# AudioBook From PDF
 
 This project is a script that reads the content of a pdf file and make it Audiobook.
 
