@@ -4,11 +4,11 @@
 
 # PDF Reader and Speaker
 
-This project is a script that reads the content of a pdf file and speaks it out.
+This project is a script that reads the content of a pdf file and make it Audiobook.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
