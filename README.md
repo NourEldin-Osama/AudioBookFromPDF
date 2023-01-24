@@ -1,7 +1,3 @@
-# Installation
-
-[Notebook Link](main.ipynb)
-
 # PDF Reader and Speaker
 
 This project is a script that reads the content of a pdf file and make it Audiobook.
@@ -33,6 +29,7 @@ git clone https://github.com/NourEldin-Osama/AudioBookFromPDF.git
 ### Usage
 
 You can use the script by running the ```main.ipynb``` jupyter notebook.
+[Notebook Link](main.ipynb)
 
 ## License
 
